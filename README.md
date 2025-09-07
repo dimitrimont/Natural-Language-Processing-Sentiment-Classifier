@@ -19,12 +19,6 @@ The project explores the trade-off between interpretability vs performance in NL
 
 ---
 
-## Installation
-
-bash
-# Clone the repository
-git clone https://github.com/yourusername/NLP-Sentiment-Classifier.git
-cd NLP-Sentiment-Classifier
 
 
 ## Dependencies include:

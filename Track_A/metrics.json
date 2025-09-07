@@ -1,0 +1,6 @@
+{
+  "accuracy": 0.845,
+  "f1": 0.8426395939086294,
+  "roc_auc": 0.9053749999999999,
+  "report": "              precision    recall  f1-score   support\n\n           0      0.835     0.860     0.847       200\n           1      0.856     0.830     0.843       200\n\n    accuracy                          0.845       400\n   macro avg      0.845     0.845     0.845       400\nweighted avg      0.845     0.845     0.845       400\n"
+}
